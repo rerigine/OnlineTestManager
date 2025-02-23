@@ -1,7 +1,5 @@
 /*
  * Rishi Erigineni
- * rerigine
- * 118908021
  */
 
 #include "document.h"
